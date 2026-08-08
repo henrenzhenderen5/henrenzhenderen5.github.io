@@ -29,6 +29,18 @@ The OpenMV camera observes the board and identifies the current game state. The 
 
 OpenMV, MicroPython, Solidworks, I2C, embedded systems, PCB assembly, and soldering.
 
+## Media
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://player.bilibili.com/player.html?bvid=BV17ju56cEC8&page=1&high_quality=1&danmaku=0" 
+          scrolling="no" 
+          border="0" 
+          frameborder="no" 
+          framespacing="0" 
+          allowfullscreen="true" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 ## Project Link
 
