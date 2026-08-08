@@ -27,18 +27,8 @@ The OpenMV camera observes the board and identifies the current game state. The 
 
 ## Tools
 
-OpenMV, MicroPython, I2C, embedded systems, PCB assembly, and soldering.
+OpenMV, MicroPython, Solidworks, I2C, embedded systems, PCB assembly, and soldering.
 
-## Media
-
-Add your final project photographs and demonstration video here:
-
-```html
-<video controls width="100%" poster="/images/portfolio/tic-tac-toe-cover.jpg">
-  <source src="/images/portfolio/tic-tac-toe-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-```
 
 ## Project Link
 
