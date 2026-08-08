@@ -60,7 +60,7 @@ ADF4351, AD831, SPF5189Z, AD8307, PE4302, STM32, 10.7 MHz crystal filter, LCD, P
 ## Media
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
-  <iframe src="https://player.bilibili.com/player.html?bvid=这里替换成你的BV号&page=1&high_quality=1&danmaku=0" 
+  <iframe src="https://player.bilibili.com/player.html?bvid=BV1Eju56cEPi&page=1&high_quality=1&danmaku=0" 
           scrolling="no" 
           border="0" 
           frameborder="no" 
