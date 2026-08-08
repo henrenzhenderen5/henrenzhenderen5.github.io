@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : ""Tian Tianle | Robotics"
+title                    : "Tian Tianle | Robotics"
 title_separator          : "-"
-name                     : &name ""Tian Tianle"
-description              : &description "Robotics student at the National University of Singapore. Portfolio in embedded systems, robotics, and electronic instrumentation."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://henrenzhenderen5.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Tian Tianle"
+description              : &description "Robotics student at the National University of Singapore. Portfolio in embedded systems, robotics, and electronic instrumentation."
+url                      : "https://henrenzhenderen5.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "henrenzhenderen5/henrenzhenderen5.github.io"
