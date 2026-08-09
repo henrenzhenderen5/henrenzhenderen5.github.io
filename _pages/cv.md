@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* **Robotics Electronics Engineer Intern**, Shanghai Great Rift Intelligent Technology Co., Ltd. (Oct. 2025 – Jan. 2026\)  
+* **Robotics Electronics Engineer Intern**, Sharpa Robotics (Oct. 2025 – Jan. 2026\)  
   * Researched antenna theory and conducted empirical testing to optimize wireless antenna selection and stability for humanoid robots.  
   * Investigated Wi-Fi 7 modulation and coding schemes (MCS); selected and integrated Ethernet (RJ45)-to-Wi-Fi converter modules for robot communication.  
   * Researched USB Power Delivery (USB-PD) protocols, selected Power Management ICs (PMICs), and implemented a dual-power management system (Battery & USB-PD) for humanoid robot hardware.
