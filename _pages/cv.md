@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **M.S. in Robotics**, National University of Singapore (NUS), Aug. 2026 – Present  
-  * Affiliated with College of Design and Engineering (CDE) / Advanced Robotics Centre (ARC)  
+  * Affiliated with College of Design and Engineering (CDE)  
   * Focus Areas: Robot Kinematics & Dynamics, Autonomous Systems, Mechatronics, Embedded Control  
 * **B.Eng. in Electronic Information**, Fudan University, Aug. 2022 – June 2026  
   * GPA: 3.45 / 4.0  
