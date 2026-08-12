@@ -23,7 +23,7 @@ repository               : "henrenzhenderen5/henrenzhenderen5.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "origin_photo.jpg"
   name             : "Tian Tianle"
   pronouns         : # example: "she/her"  
   bio              : "Robotics student at NUS | Embedded Systems & Electronic Instrumentation"
