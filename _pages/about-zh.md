@@ -52,7 +52,7 @@ redirect_from:
 
 ## 联系方式 (Contact)
 
-* **电子邮箱**：[tianle.tianl@u.nus.edu](mailto:tianle.tianl@u.nus.edu)
+* **电子邮箱**：[tianle.tian@u.nus.edu](mailto:tianle.tian@u.nus.edu)
 * **个人主页**：[https://henrenzhenderen5.github.io](https://henrenzhenderen5.github.io)
 * **GitHub**：[https://github.com/henrenzhenderen5](https://github.com/henrenzhenderen5)
 * **地址**：College of Design and Engineering (CDE), National University of Singapore, Singapore
