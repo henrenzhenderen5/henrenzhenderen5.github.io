@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+> 🌐 **Language**: **English** | [中文版](/cv-zh/)
+
 Education
 ======
 * **M.S. in Robotics**, National University of Singapore (NUS), Aug. 2026 – Present  
