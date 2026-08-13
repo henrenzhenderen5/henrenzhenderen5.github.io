@@ -5,7 +5,7 @@ permalink: /cv-zh/
 author_profile: true
 ---
 
-[English Version](/cv/) | **中文版**
+> 🌐 **Language**: **English** | [中文版](/cv-zh/)
 
 # 教育背景
 * **机器人学硕士**, 新加坡国立大学 (NUS), 2026年8月 – 至今
