@@ -1,6 +1,12 @@
 main:
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
 
-  - title: "CV"
-    url: /cv/
+  - title: "CV (EN)"
+    url: /cv/
+
+  - title: "简历 (中文)"
+    url: /cv-zh/
+
+  - title: "关于我 (中文)"
+    url: /about-zh/
