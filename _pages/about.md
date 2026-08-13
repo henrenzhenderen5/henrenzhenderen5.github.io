@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+> 🌐 **Language / 语言**: **English** | [中文版](/about-zh/)
 
 I am **Tian Tianle**, a Robotics student at the National University of Singapore (NUS). I hold a bachelor's degree in Electronic Information from Fudan University, where I graduated in 2026. I am interested in embedded systems, robotics, electronic instrumentation, signal processing, and the practical integration of hardware and software.
 
