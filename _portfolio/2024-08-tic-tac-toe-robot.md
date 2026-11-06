@@ -6,6 +6,8 @@ excerpt: "A vision-guided embedded game device that detects a tic-tac-toe board 
 date: 2024-08-01
 ---
 
+[中文版]({{ '/portfolio-zh/tic-tac-toe-robot/' | relative_url }})
+
 ## Overview
 
 **Autonomous Tic-Tac-Toe Robot** is a compact embedded game device that combines machine vision, hardware integration, and motion control to play tic-tac-toe automatically. Developed during an intensive one-month project, it translates the state of a physical game board into machine-readable information and carries out the next move through a robotic mechanism.

@@ -6,6 +6,8 @@ excerpt: "An award-winning spectrum-analyzer project built around a superheterod
 date: 2025-06-01
 ---
 
+[中文版]({{ '/portfolio-zh/superheterodyne-spectrum-analyzer/' | relative_url }})
+
 ## Overview
 
 **Superheterodyne Spectrum Analyzer** is an electronic-instrument project developed by a three-person team for the 2025 Fudan University Electronic Design Competition. It implements a compact spectrum-analysis workflow around a classical superheterodyne receiver: an RF input is mixed with a swept local oscillator, filtered at a fixed intermediate frequency, converted to a voltage representing signal power, and displayed as a frequency-power trace.
