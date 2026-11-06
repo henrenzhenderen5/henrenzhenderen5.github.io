@@ -8,7 +8,7 @@ redirect_from:
 ---
 > 🌐 **Language / 语言**: **English** | [中文版](/about-zh/)
 
-I am **Tian Tianle**, a Robotics student at the National University of Singapore (NUS). I hold a bachelor's degree in Electronic Information from Fudan University, where I graduated in 2026. I am interested in embedded systems, robotics, electronic instrumentation, signal processing, and the practical integration of hardware and software.
+I am **Tian Tianle**, a Robotics student at the National University of Singapore (NUS). I hold a bachelor's degree in Electronic Engineering from Fudan University, where I graduated in 2026. I am interested in embedded systems, robotics, electronic instrumentation, signal processing, and the practical integration of hardware and software.
 
 My work combines electronics, programming, and hands-on prototyping. I enjoy taking an idea from circuit-level design through assembly, debugging, and a working physical system. My current technical toolkit includes C, Python, Verilog, MATLAB, Vivado, Altium Designer, JLCEDA, and SOLIDWORKS.
 
