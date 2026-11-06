@@ -36,6 +36,8 @@ redirect_from:
 
 ## 核心项目与作品集 (Featured Projects)
 
+[查看中文作品集]({{ '/portfolio-zh/' | relative_url }})
+
 ### 1. 人形机器人电子系统与电源管理（Sharpa Robotics 实习）
 研究无线天线理论并在人形机器人实体上进行天线稳定性实测；评估 Wi-Fi 7 调制编码方案（MCS），完成以太网（RJ45）转 Wi-Fi 模块集成；设计 USB-PD 协议与 PMIC 芯片选型，实现电池与 USB-PD 双电源管理系统。
 
